@@ -1,0 +1,20 @@
+2023-05-06 07:55:37 [31merror[39m: [31munhandledRejection: Internal Server Error[39m
+[31mError: Internal Server Error[39m
+[31m    at createProduct (C:\Users\user\Twygo\src\modules\project\project.controller.ts:20:13)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:96:5)[39m
+2023-05-06 07:55:37 [31merror[39m: [31munhandledRejection: Internal Server Error[39m
+[31mError: Internal Server Error[39m
+[31m    at createProduct (C:\Users\user\Twygo\src\modules\project\project.controller.ts:20:13)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:96:5)[39m
+2023-05-09 11:05:37 [31merror[39m: [31munhandledRejection: Invalid product: Product validation failed: name: Path `name` is required., description: Path `description` is required., price: Path `price` is required., quantity: Path `quantity` is required.[39m
+[31mError: Invalid product: Product validation failed: name: Path `name` is required., description: Path `description` is required., price: Path `price` is required., quantity: Path `quantity` is required.[39m
+[31m    at Function.create (C:\Users\user\Twygo\src\utils\db\product\productdb.manager.ts:31:13)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:96:5)[39m
+[31m    at async createProduct (C:\Users\user\Twygo\src\modules\project\project.service.ts:10:22)[39m
+[31m    at async createProduct (C:\Users\user\Twygo\src\modules\project\project.controller.ts:12:24)[39m
+2023-05-09 11:05:37 [31merror[39m: [31munhandledRejection: Invalid product: Product validation failed: name: Path `name` is required., description: Path `description` is required., price: Path `price` is required., quantity: Path `quantity` is required.[39m
+[31mError: Invalid product: Product validation failed: name: Path `name` is required., description: Path `description` is required., price: Path `price` is required., quantity: Path `quantity` is required.[39m
+[31m    at Function.create (C:\Users\user\Twygo\src\utils\db\product\productdb.manager.ts:31:13)[39m
+[31m    at processTicksAndRejections (node:internal/process/task_queues:96:5)[39m
+[31m    at async createProduct (C:\Users\user\Twygo\src\modules\project\project.service.ts:10:22)[39m
+[31m    at async createProduct (C:\Users\user\Twygo\src\modules\project\project.controller.ts:12:24)[39m

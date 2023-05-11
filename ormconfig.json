@@ -1,0 +1,12 @@
+{
+  "type": "mongodb",
+  "host": "localhost",
+  "port": 27017,
+  "database": "<your-database-name>",
+  "useNewUrlParser": true,
+  "useUnifiedTopology": true,
+  "entities": [
+    "dist/**/*.model.js"
+  ],
+  "synchronize": true
+}
